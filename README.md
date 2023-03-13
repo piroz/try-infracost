@@ -1,0 +1,2 @@
+# try-infracost
+trt infracost
